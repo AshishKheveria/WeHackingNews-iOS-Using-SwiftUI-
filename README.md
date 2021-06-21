@@ -6,4 +6,9 @@ An app that shows you the latest news! Using SwiftUI
 
 ## Goal
 
-The goal is to navigate the user to the news content by tapping on any of the news related highlights that are being shown in the table view of the application.
+The goal is to navigate the user to the news content by tapping on any of the news related headlines that are being shown in the table view of the application and calling the API to update the news on the home page of the app and opening the mobile browser when tapped on any headlines.
+
+## What are we using
+
+* SwiftUI to build the app
+* Algolia API
